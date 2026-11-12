@@ -1,6 +1,6 @@
 # Awesome-Customer-Client-Portal
 
-# Top Customer & Client Portal Ecosystem
+## Top Customer & Client Portal Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Client Workspaces, Secure File Sharing & White-Label Self-Service*  

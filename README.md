@@ -15,10 +15,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The dedicated client portal software market is estimated at approximately **$2.5B–$3.8B** (scaling toward ~$8B+ over the next decade), situated within the broader **$25B+** customer self-service and enterprise web portal industry. The sector is **highly fragmented** rather than winner-take-all: vertical-specific compliance needs (legal, wealth management, accounting), distinct buyer personas (solopreneurs vs. mid-market agencies vs. global enterprises), and the rise of low-code/no-code platforms enable dozens of specialized and self-hosted tools to profitably coexist alongside enterprise suites.
 
 ## SaaS/Hosted Platforms
 

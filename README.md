@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Customer-Client-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Client-Portal?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Client-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Client-Portal?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Client-Portal/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Client-Portal?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Client-Portal/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Customer-Client-Portal?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Client-Portal/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -65,9 +65,9 @@ The dedicated client portal software market is estimated at approximately **$2.5
 
 ## 🔓 Open-Source GitHub Projects
 
-*Self-hosted, transparent, and privacy-respecting client portal software repositories on GitHub. Sorted in descending order by GitHub Stars.*
+*Self-hosted, transparent, and privacy-respecting client portal software repositories on GitHub. Sorted in descending order by GitHub_Stars.*
 
-| 📦 Repository | ⭐ Star Badge | 📝 Architecture &amp; Key Features |
+| 📦 Repository | ⭐ Stars_Badge | 📝 Architecture &amp; Key Features |
 |:---|:---|:---|
 | **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | **Comprehensive self-hosted invoicing &amp; client portal.** Built with Laravel &amp; Flutter. Features a dedicated client portal where customers view invoices, execute Stripe/PayPal payments, accept proposals, and track project tasks. |
 | **[Crater](https://github.com/crater-invoice/crater)** | [![Stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers) | **Open-source invoice &amp; customer portal suite** for freelancers and small businesses. Laravel and VueJS backend/frontend with mobile apps (React Native), enabling clients to review quotes, statements, and payment histories directly. |
